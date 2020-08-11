@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Challenge_loop_if_basicmath", "Challenge_loop_if_basicmath\Challenge_loop_if_basicmath.vcxproj", "{598ECC4B-37D0-48F4-A23C-BDAAA2517AD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{598ECC4B-37D0-48F4-A23C-BDAAA2517AD4}.Debug|x64.ActiveCfg = Debug|x64
+		{598ECC4B-37D0-48F4-A23C-BDAAA2517AD4}.Debug|x64.Build.0 = Debug|x64
+		{598ECC4B-37D0-48F4-A23C-BDAAA2517AD4}.Debug|x86.ActiveCfg = Debug|Win32
+		{598ECC4B-37D0-48F4-A23C-BDAAA2517AD4}.Debug|x86.Build.0 = Debug|Win32
+		{598ECC4B-37D0-48F4-A23C-BDAAA2517AD4}.Release|x64.ActiveCfg = Release|x64
+		{598ECC4B-37D0-48F4-A23C-BDAAA2517AD4}.Release|x64.Build.0 = Release|x64
+		{598ECC4B-37D0-48F4-A23C-BDAAA2517AD4}.Release|x86.ActiveCfg = Release|Win32
+		{598ECC4B-37D0-48F4-A23C-BDAAA2517AD4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {797B5E78-E98B-4D32-9AFB-818661E13596}
+	EndGlobalSection
+EndGlobal
