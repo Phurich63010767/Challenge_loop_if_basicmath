@@ -1,5 +1,4 @@
 #include<iostream>
-#include<stdio.h>
 #include<conio.h>
 #include<math.h>
 using namespace std;
@@ -26,7 +25,7 @@ int main()
 			int count = x;
 			while (count <= y)
 			{
-				printf("%d\t", count++);
+				cout << count++ << " " ;
 			}
 			cout << endl;
 			cout << "Average : " << sum / N << endl;
@@ -41,7 +40,7 @@ int main()
 	int count = y;
 	while (count <= x)
 	{
-		 printf("%d\t", count++);
+		cout << count++ << " ";
 	}
 	cout << endl;
     cout << "Average : " << sum / N << endl;
